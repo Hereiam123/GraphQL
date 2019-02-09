@@ -1,0 +1,24 @@
+{
+  "name": "graphqltest",
+  "version": "1.0.0",
+  "description": "Simple graphQL server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hereiam123/graphqlTest.git"
+  },
+  "author": "Brian De Maio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hereiam123/graphqlTest/issues"
+  },
+  "homepage": "https://github.com/Hereiam123/graphqlTest#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "nodemon": "^1.18.10"
+  }
+}
